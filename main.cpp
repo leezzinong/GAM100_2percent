@@ -80,6 +80,8 @@ int main(void) {
             position.y = map_height - size/2;
         }
 
+
+/// Joo
         camera.target = position;
 
         if (position.x <= window_width/2) {
